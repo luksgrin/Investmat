@@ -1,3 +1,7 @@
+#Euler Maruyama and Milstein methods to solve Numerically Stochastic Differential Equations
+#Function inputs are sympy objects
+#See Itô SDE's for more information on how to define functions f and g
+
 import sys
 import numpy as np
 from math import sqrt
